@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dungeon Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D5EC60-4B78-AEED-951D-844241EB4DFC}|Assembly-CSharp-Editor.csproj|e:\\dungeon shooter\\assets\\scripts\\nodegraph\\editor\\roomnodegrapheditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D5EC60-4B78-AEED-951D-844241EB4DFC}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\nodegraph\\editor\\roomnodegrapheditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomNodeGraphEditor.cs",
+              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\Editor\\RoomNodeGraphEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\Editor\\RoomNodeGraphEditor.cs",
+              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\Editor\\RoomNodeGraphEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\Editor\\RoomNodeGraphEditor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:41:11.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
