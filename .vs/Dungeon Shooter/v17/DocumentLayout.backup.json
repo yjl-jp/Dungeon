@@ -3,23 +3,28 @@
   "WorkspaceRootPath": "E:\\Dungeon Shooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\DungeonGunnerCourse\\Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|e:\\dungeon shooter\\assets\\scripts\\gamemanager\\gameresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\gameresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|E:\\Dungeon Shooter\\assets\\scripts\\nodegraph\\roomnodegraphso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nodegraph\\roomnodegraphso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|E:\\Dungeon Shooter\\assets\\scripts\\nodegraph\\roomnodetypelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nodegraph\\roomnodetypelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|E:\\Dungeon Shooter\\assets\\scripts\\utilities\\helperutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\helperutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|E:\\Dungeon Shooter\\assets\\scripts\\nodegraph\\roomnodeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nodegraph\\roomnodeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|e:\\dungeon shooter\\assets\\scripts\\nodegraph\\roomnodetypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nodegraph\\roomnodetypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|E:\\Dungeon Shooter\\assets\\scripts\\nodegraph\\roomnodegraphso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nodegraph\\roomnodegraphso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|e:\\dungeon shooter\\assets\\scripts\\utilities\\helperutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\helperutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|E:\\Dungeon Shooter\\assets\\scripts\\nodegraph\\roomnodetypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4849E078-5707-EC53-E6A7-2A5F3B68F3BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nodegraph\\roomnodetypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9D5EC60-4B78-AEED-951D-844241EB4DFC}|Assembly-CSharp-Editor.csproj|E:\\Dungeon Shooter\\assets\\scripts\\nodegraph\\editor\\roomnodegrapheditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,30 +43,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RoomNodeTypeListSO.cs",
-              "DocumentMoniker": "D:\\Project\\DungeonGunnerCourse\\Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs",
-              "ToolTip": "D:\\Project\\DungeonGunnerCourse\\Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "GameResources.cs",
+              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\GameManager\\GameResources.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\GameResources.cs",
+              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\GameManager\\GameResources.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\GameResources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T13:17:36.871Z",
+              "WhenOpened": "2025-07-05T11:58:42.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HelperUtilities.cs",
-              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\Utilities\\HelperUtilities.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\HelperUtilities.cs",
-              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\Utilities\\HelperUtilities.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Utilities\\HelperUtilities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RoomNodeTypeListSO.cs",
+              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs",
+              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\RoomNodeTypeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T13:13:24.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T13:17:56.179Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "RoomNodeSO.cs",
+              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
+              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:01:30.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomNodeGraphSo.cs",
+              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
+              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:51:11.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RoomNodeTypeSO.cs",
               "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeTypeSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\RoomNodeTypeSO.cs",
@@ -69,38 +99,23 @@
               "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\RoomNodeTypeSO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T13:07:27.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T13:07:27.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoomNodeSO.cs",
-              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
-              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\RoomNodeSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Title": "HelperUtilities.cs",
+              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\Utilities\\HelperUtilities.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\HelperUtilities.cs",
+              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\Utilities\\HelperUtilities.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\HelperUtilities.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwPAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T13:01:30.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T13:13:24.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoomNodeGraphSo.cs",
-              "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
-              "ToolTip": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NodeGraph\\RoomNodeGraphSo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T12:51:11.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RoomNodeGraphEditor.cs",
               "DocumentMoniker": "E:\\Dungeon Shooter\\Assets\\Scripts\\NodeGraph\\Editor\\RoomNodeGraphEditor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NodeGraph\\Editor\\RoomNodeGraphEditor.cs",
