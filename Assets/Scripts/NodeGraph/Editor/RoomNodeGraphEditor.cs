@@ -8,6 +8,7 @@ public class RoomNodeGraphEditor : EditorWindow
 {
     private GUIStyle roomNodeStyle;
     private static RoomNodeGraphSO currentRoomNodeGraph;
+    private RoomNodeSO currentRoomNode=null;
     private RoomNodeTypeListSO roomNodeTypeList;
     private const float nodeWidth = 160f;
     private const float nodeHeight = 75f;
@@ -51,7 +52,7 @@ public class RoomNodeGraphEditor : EditorWindow
     {
         if (currentRoomNodeGraph != null)
         {
-            ProgressEvents(Event.current);
+            ProcessEvents(Event.current);
             DrawRoomNodes();
         }
         if (GUI.changed)
@@ -59,9 +60,36 @@ public class RoomNodeGraphEditor : EditorWindow
             Repaint();
         }
     }
-    private void ProgressEvents(Event currentEvent)
+    private void ProcessEvents(Event currentEvent)
     {
-        ProcessRoomNodeGraphEvents(currentEvent);
+        // Get room node that mouse is over if it's null or not currently being dragged
+        if (currentRoomNode == null || currentRoomNode.isLeftClickDragging == false)
+        {
+            currentRoomNode = IsMouseOverRoomNode(currentEvent);
+        }
+
+        // if mouse isn't over a room node or we are currently dragging a line from the room node then process graph events
+        if (currentRoomNode == null || currentRoomNodeGraph.roomNodeToDrawLineFrom != null)
+        {
+            ProcessRoomNodeGraphEvents(currentEvent);
+        }
+        // else process room node events
+        else
+        {
+            // process room node events
+            currentRoomNode.ProcessEvents(currentEvent);
+        }
+    }
+    private RoomNodeSO IsMouseOverRoomNode(Event currentEvent)
+    {
+        for (int i =currentRoomNodeGraph.roomNodeList.Count-1;i>=0;i--)
+        {
+            if (currentRoomNodeGraph.roomNodeList[i].rect.Contains(currentEvent.mousePosition))
+            {
+                return currentRoomNodeGraph.roomNodeList[i];
+            }
+        }
+        return null;
     }
     private void ProcessRoomNodeGraphEvents(Event currentEvent)
     {
